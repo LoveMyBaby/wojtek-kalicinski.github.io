@@ -22,4 +22,13 @@
     "sha256_cert_fingerprints":
     ["29:62:91:06:6B:C5:FA:7F:65:72:77:4A:54:A4:EF:2E:27:68:89:51:5F:F1:8A:09:45:F6:3B:0F:4A:59:0B:91"]
   }
-}]
+},
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.recipe_app",
+    "sha256_cert_fingerprints":
+    ["22:11:B8:04:C5:59:FD:B8:70:B9:BF:DB:E4:12:0B:3E:F6:52:53:2D:B4:83:87:AB:1F:FE:D1:1F:52:31:2E:5D"]
+  }
+}]]
